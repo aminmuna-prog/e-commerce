@@ -1,0 +1,43 @@
+body{
+    background: #fff;
+}
+
+.second-part{
+    margin-bottom: 100px;
+}
+
+.see{
+    float:left;
+    color: chocolate;
+    margin-right: 5px;
+}
+
+.smartphone{
+    margin-bottom: 80px;
+}
+.buy-now{
+    margin: auto;
+    margin-bottom: 10px;
+}
+
+.explain{
+    color: darkgray;
+}
+
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+
+.laptop{
+    margin-bottom: 150px;
+}
+
+.borderline{
+    border-bottom: 3px solid orange;
+    
+}
+
+.shadow{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
